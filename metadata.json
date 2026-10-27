@@ -1,0 +1,6 @@
+{
+  "name": "QALA - Artesanías & Turismo Internacional",
+  "description": "Plataforma de comercio artesanal turístico con catálogo boutique, pedidos internacionales vía WhatsApp y panel administrativo de gestión con visualización de fotos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
